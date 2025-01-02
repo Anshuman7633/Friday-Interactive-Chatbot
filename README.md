@@ -1,3 +1,4 @@
+![Screenshot 2025-01-02 201535](https://github.com/user-attachments/assets/21519a7b-d5f2-4d02-953b-05dfe0e0b71c)
 ### **About the Project**
 
 The **Friday Interactive Chatbot** is a versatile and feature-rich AI-powered desktop assistant built using Python and PyQt5. Inspired by the Marvel character Tony Stark's virtual assistant, this chatbot aims to provide seamless and interactive assistance. Whether you need to manage tasks, perform calculations, check the weather, or even enjoy media suggestions, Friday is equipped to handle it all.
